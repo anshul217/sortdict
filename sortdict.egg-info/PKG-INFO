@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: sortdict
+Version: 0.0.1
+Summary: This library is to sort dictionary list given to corresponding keys
+Home-page: https://github.com/ANSHUL217
+Author: Anshul Gupta
+Author-email: anshulgupta217@gmail.com
+License: UNKNOWN
+Description: This packages sorts dictionary in efficient and fastest way
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown

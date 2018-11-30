@@ -1,0 +1,6 @@
+setup.py
+sortdict/__init__.py
+sortdict.egg-info/PKG-INFO
+sortdict.egg-info/SOURCES.txt
+sortdict.egg-info/dependency_links.txt
+sortdict.egg-info/top_level.txt
